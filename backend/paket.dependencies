@@ -1,0 +1,7 @@
+source https://nuget.org/api/v2
+
+nuget FSharp.Core 3.1.2.5
+nuget FAKE
+nuget SQLProvider
+nuget Suave 1.0.0
+nuget Newtonsoft.Json
